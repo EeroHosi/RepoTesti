@@ -138,4 +138,20 @@
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-44a76adb40a34bab96c468328d527853.xml#id-44a76adb40a34bab96c468328d527853"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-081f4a57738c432e9eb701e59dae7be1"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Testi 22.3.2021 &#xA;Eero">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="692"
+        y="155"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
